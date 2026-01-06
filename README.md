@@ -12,3 +12,9 @@ commit 2 - project objective
  -Git
  -Github
  -Markdown
+
+ How to use Project
+ ## How to Use
+ 1.Clone the repository
+ 2.Open the README.md file
+ 3.Read the project details
