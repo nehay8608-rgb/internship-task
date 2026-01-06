@@ -18,4 +18,9 @@ commit 2 - project objective
  ## How to Use
  1.Clone the repository
  2.Open the README.md file
- 3.Read the project details
+ 3.Read the project details.
+
+ commit 5 - Author Details
+ ## Author
+ Name:Neha Yadav
+ internship task repository
