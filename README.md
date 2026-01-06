@@ -13,7 +13,7 @@ commit 2 - project objective
  -Github
  -Markdown
 
- How to use Project
+commit 4 - How to use Project
  ## How to Use
  1.Clone the repository
  2.Open the README.md file
