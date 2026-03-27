@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+# internship-task
+git commit -m "Add README file"
+git commit -m "Update project description"
+git commit -m "Add sample HTML file"
+git commit -m "Improve folder structure"
+git commit -m "Fix minor formatting issues"
+Merge conflict handled successfully
+=======
 commit 1 - project title & description 
 # Internship Task 
 This repository contains the internship task assigned to me. This project is created for learning Git and GitHub basiscs.
@@ -24,3 +33,4 @@ commit 2 - project objective
  ## Author
  Name:Neha Yadav
  internship task repository
+>>>>>>> main
